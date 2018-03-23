@@ -1,0 +1,13 @@
+# Logfile created on 2018-03-23 10:20:31 +0500 by logger.rb/47272
+I, [2018-03-23T10:20:31.451782 #8522]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:23:07.425334 #9267]  INFO -- : SMD Ups started 
+F, [2018-03-23T10:23:17.051499 #9267] FATAL -- : Could not create file
+I, [2018-03-23T10:26:00.095879 #9356]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:28:30.019889 #20905]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:29:11.736849 #20942]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:32:46.128797 #21029]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:34:05.705471 #21072]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:34:55.179608 #21108]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:35:14.867924 #21138]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:40:39.641512 #21839]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:41:08.424641 #21883]  INFO -- : SMD Ups started 

@@ -1,0 +1,128 @@
+# Logfile created on 2011-07-12 13:24:06 -0500 by logger.rb/25413
+I, [2011-07-12T13:24:06.878250 #5616]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:27:52.815750 #4672]  INFO -- : SMD Ups started 
+F, [2011-07-12T13:27:53.534500 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x15b65b0>
+F, [2011-07-12T13:27:54.018875 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x1289760>
+F, [2011-07-12T13:27:54.550125 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x1507ad0>
+F, [2011-07-12T13:27:55.097000 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x17746b0>
+F, [2011-07-12T13:27:55.597000 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x11be1e0>
+F, [2011-07-12T13:27:56.159500 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x16ce0f0>
+F, [2011-07-12T13:27:56.628250 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x14e6080>
+F, [2011-07-12T13:27:57.112625 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x14fbb90>
+F, [2011-07-12T13:27:57.597000 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x176cc10>
+F, [2011-07-12T13:27:58.112625 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x11a6588>
+F, [2011-07-12T13:27:58.612625 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x16c07d0>
+F, [2011-07-12T13:27:59.112625 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x1517118>
+F, [2011-07-12T13:27:59.597000 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x14f0da8>
+F, [2011-07-12T13:28:00.112625 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x1765680>
+F, [2011-07-12T13:28:00.643875 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0xeb8f00>
+F, [2011-07-12T13:28:01.143875 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x16b9bb8>
+F, [2011-07-12T13:28:01.597000 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x1648140>
+F, [2011-07-12T13:28:02.065750 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x14e3860>
+F, [2011-07-12T13:28:02.550125 #4672] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x174e520>
+I, [2011-07-12T13:28:02.550125 #4672]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:29:30.940750 #2144]  INFO -- : SMD Ups started 
+F, [2011-07-12T13:29:31.847000 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x15f9570>
+F, [2011-07-12T13:29:32.331375 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x125aa20>
+F, [2011-07-12T13:29:32.878250 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x15245b8>
+F, [2011-07-12T13:29:33.425125 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x17cb1d0>
+F, [2011-07-12T13:29:33.909500 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x11d4f50>
+F, [2011-07-12T13:29:34.409500 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x16ef3c0>
+F, [2011-07-12T13:29:34.893875 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x14bd2e0>
+F, [2011-07-12T13:29:35.393875 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x1516b78>
+F, [2011-07-12T13:29:35.956375 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x17c51b8>
+F, [2011-07-12T13:29:36.456375 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x11bee10>
+F, [2011-07-12T13:29:37.003250 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x16e36f0>
+F, [2011-07-12T13:29:37.487625 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x150b988>
+F, [2011-07-12T13:29:38.065750 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x150da58>
+F, [2011-07-12T13:29:38.565750 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x17bf2c0>
+F, [2011-07-12T13:29:39.128250 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0xfa8630>
+F, [2011-07-12T13:29:39.643875 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x16d7ae0>
+F, [2011-07-12T13:29:40.143875 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x15e2d70>
+F, [2011-07-12T13:29:40.612625 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x14fe398>
+F, [2011-07-12T13:29:41.097000 #2144] FATAL -- : undefined method `trackNums=' for #<Mechanize::Form:0x17b2dc8>
+I, [2011-07-12T13:29:41.097000 #2144]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:40:33.550125 #5516]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:41:31.159500 #3220]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:41:32.081375 #3220]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:42:22.237625 #5872]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:42:22.925125 #5872]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:44:22.112625 #4508]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:44:22.487625 #4508]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:46:05.534500 #2148]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:46:05.893875 #2148]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:47:03.425125 #3120]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:47:03.800125 #3120]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:47:41.706375 #3984]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:47:42.175125 #3984]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:48:20.112625 #4088]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:48:43.581375 #4088]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:50:29.581375 #1404]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:50:33.300125 #1404]  INFO -- : SMD Ups completed
+I, [2011-07-12T13:51:02.768875 #3460]  INFO -- : SMD Ups started 
+I, [2011-07-12T13:51:05.315750 #3460]  INFO -- : SMD Ups completed
+I, [2011-09-22T10:31:57.133875 #112]  INFO -- : SMD Ups started 
+F, [2011-09-22T10:36:28.930750 #112] FATAL -- : Timeout::Error
+F, [2011-09-22T10:36:32.493250 #112] FATAL -- : Incorrect SSN for Calhoun, Jessica                    
+F, [2011-09-22T10:36:35.399500 #112] FATAL -- : undefined local variable or method `db' for #<SMDUPS:0x1539660>
+I, [2011-09-22T10:36:35.399500 #112]  INFO -- : SMD Ups completed
+I, [2011-09-22T11:04:40.696375 #2704]  INFO -- : SMD Ups started 
+F, [2011-09-22T11:08:27.946375 #2704] FATAL -- : Incorrect SSN for Calhoun, Jessica                    
+F, [2011-09-22T11:08:40.727625 #2704] FATAL -- : undefined local variable or method `db' for #<SMDUPS:0x15365d0>
+I, [2011-09-22T11:08:40.727625 #2704]  INFO -- : SMD Ups completed
+I, [2011-09-22T11:11:10.305750 #3928]  INFO -- : SMD Ups started 
+F, [2011-09-22T11:13:41.274500 #3928] FATAL -- : Incorrect SSN for Calhoun, Jessica                    
+I, [2011-09-22T11:13:46.040125 #3928]  INFO -- : SMD Ups completed
+I, [2011-09-22T11:19:42.087000 #3240]  INFO -- : SMD Ups started 
+F, [2011-09-22T11:22:40.524500 #3240] FATAL -- : Incorrect SSN for Calhoun, Jessica                    
+I, [2011-09-22T11:22:53.290125 #3240]  INFO -- : SMD Ups completed
+I, [2018-03-13T16:37:18.672224 #26531]  INFO -- : SMD Ups started 
+F, [2018-03-13T16:37:26.241814 #26531] FATAL -- : SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
+I, [2018-03-13T16:37:26.241899 #26531]  INFO -- : SMD Ups completed
+I, [2018-03-13T16:40:07.867138 #26664]  INFO -- : SMD Ups started 
+F, [2018-03-13T16:40:10.381633 #26664] FATAL -- : SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
+I, [2018-03-13T16:40:10.381820 #26664]  INFO -- : SMD Ups completed
+I, [2018-03-13T16:41:46.624808 #26762]  INFO -- : SMD Ups started 
+F, [2018-03-13T16:41:50.777974 #26762] FATAL -- : no implicit conversion of Errno::ENOENT into String
+I, [2018-03-13T16:41:50.778033 #26762]  INFO -- : SMD Ups completed
+I, [2018-03-13T16:42:26.307779 #26841]  INFO -- : SMD Ups started 
+F, [2018-03-13T16:42:32.099918 #26841] FATAL -- : no implicit conversion of Errno::ENOENT into String (TypeError)
+/home/sulman/Downloads/ups/clsUps.rb:215:in `+'
+/home/sulman/Downloads/ups/clsUps.rb:215:in `rescue in save_file'
+/home/sulman/Downloads/ups/clsUps.rb:198:in `save_file'
+/home/sulman/Downloads/ups/clsUps.rb:102:in `process_tracking_nums'
+/home/sulman/Downloads/ups/clsUps.rb:73:in `testit'
+SMD UPS Tracking.rb:31:in `<main>'
+I, [2018-03-13T16:42:32.100041 #26841]  INFO -- : SMD Ups completed
+I, [2018-03-13T16:42:41.664477 #26895]  INFO -- : SMD Ups started 
+F, [2018-03-13T16:42:45.293780 #26895] FATAL -- : no implicit conversion of Errno::ENOENT into String (TypeError)
+/home/sulman/Downloads/ups/clsUps.rb:215:in `+'
+/home/sulman/Downloads/ups/clsUps.rb:215:in `rescue in save_file'
+/home/sulman/Downloads/ups/clsUps.rb:198:in `save_file'
+/home/sulman/Downloads/ups/clsUps.rb:102:in `process_tracking_nums'
+/home/sulman/Downloads/ups/clsUps.rb:73:in `testit'
+SMD UPS Tracking.rb:31:in `<main>'
+I, [2018-03-13T16:42:45.293870 #26895]  INFO -- : SMD Ups completed
+I, [2018-03-13T16:43:13.316430 #26945]  INFO -- : SMD Ups started 
+F, [2018-03-13T16:43:17.907272 #26945] FATAL -- : no implicit conversion of Errno::ENOENT into String (TypeError)
+/home/sulman/Downloads/ups/clsUps.rb:215:in `+'
+/home/sulman/Downloads/ups/clsUps.rb:215:in `rescue in save_file'
+/home/sulman/Downloads/ups/clsUps.rb:198:in `save_file'
+/home/sulman/Downloads/ups/clsUps.rb:102:in `process_tracking_nums'
+/home/sulman/Downloads/ups/clsUps.rb:73:in `testit'
+SMD UPS Tracking.rb:31:in `<main>'
+I, [2018-03-13T16:43:17.907383 #26945]  INFO -- : SMD Ups completed
+I, [2018-03-13T16:44:34.355292 #27004]  INFO -- : SMD Ups started 
+I, [2018-03-13T16:44:38.909187 #27004]  INFO -- : SMD Ups completed
+I, [2018-03-13T16:49:48.000080 #27356]  INFO -- : SMD Ups started 
+I, [2018-03-13T16:54:04.372581 #27586]  INFO -- : SMD Ups started 
+I, [2018-03-23T10:17:15.670997 #8414]  INFO -- : SMD Ups started 
+F, [2018-03-23T10:17:20.599712 #8414] FATAL -- : no implicit conversion of Errno::ENOENT into String
+I, [2018-03-23T10:19:41.205325 #8480]  INFO -- : SMD Ups started 
+F, [2018-03-23T10:19:44.316702 #8480] FATAL -- : no implicit conversion of Errno::ENOENT into String (TypeError)
+/home/salman/Downloads/ups-updated-13-03-2018/clsUps.rb:216:in `+'
+/home/salman/Downloads/ups-updated-13-03-2018/clsUps.rb:216:in `rescue in save_file'
+/home/salman/Downloads/ups-updated-13-03-2018/clsUps.rb:199:in `save_file'
+/home/salman/Downloads/ups-updated-13-03-2018/clsUps.rb:103:in `process_tracking_nums'
+/home/salman/Downloads/ups-updated-13-03-2018/clsUps.rb:74:in `testit'
+SMD_UPS_Tracking.rb:31:in `<main>'
